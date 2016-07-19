@@ -1,0 +1,5 @@
+C:\Users\YY\Desktop\Customized program\CNumpad\CNumpad\obj\Release\ResolveAssemblyReference.cache
+C:\Users\YY\Desktop\Customized program\CNumpad\CNumpad\bin\Release\CNumpad.dll
+C:\Users\YY\Desktop\Customized program\CNumpad\CNumpad\bin\Release\CNumpad.pdb
+C:\Users\YY\Desktop\Customized program\CNumpad\CNumpad\obj\Release\CNumpad.dll
+C:\Users\YY\Desktop\Customized program\CNumpad\CNumpad\obj\Release\CNumpad.pdb
